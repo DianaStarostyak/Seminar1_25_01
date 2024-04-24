@@ -1,0 +1,15 @@
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.csproj.AssemblyReference.cache
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.AssemblyInfoInputs.cache
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.AssemblyInfo.cs
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\sem_3\bin\Debug\net6.0\sem_3.exe
+C:\GeekBrains\sem_3\bin\Debug\net6.0\sem_3.deps.json
+C:\GeekBrains\sem_3\bin\Debug\net6.0\sem_3.runtimeconfig.json
+C:\GeekBrains\sem_3\bin\Debug\net6.0\sem_3.dll
+C:\GeekBrains\sem_3\bin\Debug\net6.0\sem_3.pdb
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.dll
+C:\GeekBrains\sem_3\obj\Debug\net6.0\refint\sem_3.dll
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.pdb
+C:\GeekBrains\sem_3\obj\Debug\net6.0\sem_3.genruntimeconfig.cache
+C:\GeekBrains\sem_3\obj\Debug\net6.0\ref\sem_3.dll
