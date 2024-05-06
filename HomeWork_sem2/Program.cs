@@ -57,7 +57,22 @@
 // Задача 4
 //Напишите программу, которая на вход принимает натуральное число N, а на выходе показывает его цифры через запятую.
 
-int number = 568;
-int FirstDigit = 
-int SecondDigit = 
-int ThirdDigit = 
+int number = 186;
+int firsDigit_1 = number / 10;
+int secondDigit_1 = number % 10;
+int firsDigit_2 = number / 10 / 10;
+int secondDigit_2 = number / 10 % 10;
+int thirdDigit_2 = number % 10;
+
+if (number < 10)
+{
+    Console.WriteLine(number);
+}
+if (number > 10 && number < 100)
+{
+    Console.WriteLine($"{firsDigit_1} ; {secondDigit_1}");
+}
+if (number > 100)
+{
+    Console.WriteLine($"{firsDigit_2} ; {secondDigit_2} ; {thirdDigit_2}");
+}
